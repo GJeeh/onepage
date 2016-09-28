@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="infoContent">
+        <div id="titleInfo">
+            <p>Hoe het werkt:</p>
+        </div>
+        <div id="hardware">
+            <div class="infoKopje">
+                <p>Hardware</p>
+            </div>
+            <div class="infoContent">
+                <img src="url.jpg" width="100%" height="100%">
+            </div>
+        </div>
+        <div id="software">
+            <div class="infoKopje">
+                <p>Software</p>
+            </div>
+            <div class="infoContent">
+                <img src="url.jpg" width="100%" height="100%">
+            </div>
+        </div>
+        <div id="gebruik">
+            <div class="infoKopje">
+                <p>Gebruik</p>
+            </div>
+            <div class="infoContent">
+                <img src="url.jpg" width="100%" height="100%">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
